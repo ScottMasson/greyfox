@@ -1,0 +1,33 @@
+{
+  "name": "greyfox",
+  "version": "1.0.1",
+  "description": "A powerful cross-platform UI toolkit!",
+  "main": "greyfox.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottMasson/greyfox.git"
+  },
+  "keywords": [
+    "css",
+    "greyfox.css"
+  ],
+  "author": "scottmasson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottMasson/greyfox/issues"
+  },
+  "homepage": "https://github.com/ScottMasson/greyfox#readme",
+  "devDependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "gulp": "^5.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp4-run-sequence": "^1.0.2",
+    "sass": "^1.77.8"
+  }
+}
